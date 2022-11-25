@@ -30,6 +30,11 @@ const config = {
           showLastUpdateTime: true,
           sidebarPath: require.resolve('./sidebars.js'),
         },
+        blog: {
+          showReadingTime: true,
+          editUrl:
+            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+        },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
         },
@@ -89,11 +94,7 @@ const config = {
             label: 'HSMovel',
             position: 'left',
           },
-          {
-            to: 'https://ajuda.highsoftsistemas.com.br/',
-            label: 'Ajuda',
-            position: 'right',
-          },
+          { to: '/blog', label: 'Blog', position: 'right' },
           {
             href: 'https://highsoftsistemas.com.br',
             label: 'Site',
@@ -147,8 +148,8 @@ const config = {
             title: 'Extra',
             items: [
               {
-                label: 'Ajuda',
-                to: 'https://ajuda.highsoftsistemas.com.br/',
+                label: 'Blog',
+                to: '/blog',
               },
               {
                 label: 'Dev to',
