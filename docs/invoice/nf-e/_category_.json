@@ -1,0 +1,13 @@
+{
+  "label": "NFE",
+  "collapsible": true,
+  "collapsed": true,
+  "className": "red",
+  "link": {
+    "type": "generated-index",
+    "title": "NFE - Nota Fiscal Eletronica"
+  },
+  "customProps": {
+    "description": "Nota Fiscal Eletronica documentação"
+  }
+}

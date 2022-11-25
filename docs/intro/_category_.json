@@ -1,0 +1,14 @@
+{
+  "label": "HSCorp",
+  "collapsible": true,
+  "collapsed": true,
+  "position": 1,
+  "className": "red",
+  "link": {
+    "type": "generated-index",
+    "title": "HSCorp visão geral"
+  },
+  "customProps": {
+    "description": "HSCorp documentação"
+  }
+}

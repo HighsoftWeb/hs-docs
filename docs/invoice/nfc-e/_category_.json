@@ -1,0 +1,13 @@
+{
+  "label": "NFCE",
+  "collapsible": true,
+  "collapsed": true,
+  "className": "red",
+  "link": {
+    "type": "generated-index",
+    "title": "NFCE - Nota Fiscal de Consumidor Eletrônica"
+  },
+  "customProps": {
+    "description": "Nota Fiscal de Consumidor Eletrônica documentação"
+  }
+}

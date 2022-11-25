@@ -1,0 +1,13 @@
+{
+  "label": "Estoque",
+  "collapsible": true,
+  "collapsed": true,
+  "className": "red",
+  "link": {
+    "type": "generated-index",
+    "title": "Estoque"
+  },
+  "customProps": {
+    "description": "Estoque documentação"
+  }
+}

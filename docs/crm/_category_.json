@@ -1,0 +1,13 @@
+{
+  "label": "CRM",
+  "collapsible": true,
+  "collapsed": true,
+  "className": "red",
+  "link": {
+    "type": "generated-index",
+    "title": "Gestão de relacionamento com o cliente"
+  },
+  "customProps": {
+    "description": "CRM documentação"
+  }
+}

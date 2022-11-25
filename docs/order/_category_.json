@@ -1,0 +1,13 @@
+{
+  "label": "Orçamentos",
+  "collapsible": true,
+  "collapsed": true,
+  "className": "red",
+  "link": {
+    "type": "generated-index",
+    "title": "Orçamentos"
+  },
+  "customProps": {
+    "description": "Orçamentos documentação"
+  }
+}

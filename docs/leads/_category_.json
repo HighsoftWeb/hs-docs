@@ -1,0 +1,13 @@
+{
+  "label": "Leads",
+  "collapsible": true,
+  "collapsed": true,
+  "className": "red",
+  "link": {
+    "type": "generated-index",
+    "title": "Gestão de Leads"
+  },
+  "customProps": {
+    "description": "Leads documentação"
+  }
+}

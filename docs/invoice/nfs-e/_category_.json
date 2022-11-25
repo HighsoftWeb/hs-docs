@@ -1,0 +1,13 @@
+{
+  "label": "NFSE",
+  "collapsible": true,
+  "collapsed": true,
+  "className": "red",
+  "link": {
+    "type": "generated-index",
+    "title": "NFSE - Nota Fiscal de Serviços Eletrônica"
+  },
+  "customProps": {
+    "description": "Nota Fiscal de Serviços Eletrônica documentação"
+  }
+}

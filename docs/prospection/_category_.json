@@ -1,0 +1,13 @@
+{
+  "label": "Prospecção",
+  "collapsible": true,
+  "collapsed": true,
+  "className": "red",
+  "link": {
+    "type": "generated-index",
+    "title": "Prospecção"
+  },
+  "customProps": {
+    "description": "Prospecção documentação"
+  }
+}

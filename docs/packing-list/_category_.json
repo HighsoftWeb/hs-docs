@@ -1,0 +1,13 @@
+{
+  "label": "Romaneio",
+  "collapsible": true,
+  "collapsed": true,
+  "className": "red",
+  "link": {
+    "type": "generated-index",
+    "title": "Romaneio de Carga"
+  },
+  "customProps": {
+    "description": "Romaneio documentação"
+  }
+}

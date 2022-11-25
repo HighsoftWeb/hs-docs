@@ -1,0 +1,13 @@
+{
+  "label": "Business Inteligence",
+  "collapsible": true,
+  "collapsed": true,
+  "className": "red",
+  "link": {
+    "type": "generated-index",
+    "title": "Business Inteligence"
+  },
+  "customProps": {
+    "description": "Business Inteligence documentação"
+  }
+}

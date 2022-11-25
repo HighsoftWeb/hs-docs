@@ -1,0 +1,13 @@
+{
+  "label": "DRE",
+  "collapsible": true,
+  "collapsed": true,
+  "className": "red",
+  "link": {
+    "type": "generated-index",
+    "title": "Demonstração do Resultado do Exercício"
+  },
+  "customProps": {
+    "description": "DRE documentação"
+  }
+}
