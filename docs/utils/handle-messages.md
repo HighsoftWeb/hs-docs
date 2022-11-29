@@ -1,9 +1,10 @@
 ---
-id: handle-error
-title: O que fazer com Erros no HSCorp?
-sidebar_label: Erros
+id: handle-messages
+title: O que fazer com Avisos no HSCorp?
+sidebar_label: Avisos
 sidebar_position: 1
 tags:
+  - avisos
   - erros
 ---
 
@@ -30,3 +31,9 @@ Nos chame quando:
 - Windows 8 ou menor: você pode pesquisar no seu windows a `Ferramenta de Captura`, que ja vem disponível nativamente nos Windows.
 
 Consulte mais informações em [Usar a Ferramenta de Captura para obter capturas de tela](https://support.microsoft.com/pt-br/windows/usar-a-ferramenta-de-captura-para-obter-capturas-de-tela-00246869-1843-655f-f220-97299b865f6b#:~:text=Pressione%20as%20teclas%20Ctrl%20%2B%20PrtScn,tela%20que%20voc%C3%AA%20deseja%20capturar.)
+
+## Avisos
+
+Alguns dos avisos mais comuns e sua explicação:
+
+**Ficaremos felizes com sua contribuição! Conte-nos qual aviso faltou nessa lista para deixar ela atualizada!**
