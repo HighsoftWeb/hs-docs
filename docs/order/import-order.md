@@ -38,7 +38,7 @@ Elas podem dar informações necessárias e cruciais sobre os produtos comprados
 Fique atento para uma possivel mensagem de erro tambem, e caso ocorra, tire um print do erro e entre em contato conosco para auxiliar-mos e identificar o problema. Normalmente uma mensagem de erro de sistema vem em uma mensagem em vermelho.
 
 :::info
-Saiba mais: [**O que fazer com Erros no HSCorp?**](../utils/handle-error)
+Saiba mais: [**O que fazer com Avisos no HSCorp?**](../utils/handle-messages)
 :::
 
 <!-- Mensagens comuns:
@@ -46,3 +46,7 @@ Saiba mais: [**O que fazer com Erros no HSCorp?**](../utils/handle-error)
 - Cliente -->
 
 ### Meu pedido não esta importando
+
+Caso seu pedido não esteja importando, verifique se o sistema não esta emitindo algum alerta de aviso ou de erro para o mesmo, caso esteja e o aviso seja claro e entendivel, verifique as soluções com base na mensagem do aviso.
+
+Temos a explicação de diversos avisos do HSCorp em [O que fazer com Avisos no HSCorp?](../utils/handle-messages#como-tirar-um-screenshot)
