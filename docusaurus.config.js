@@ -158,7 +158,7 @@ const config = {
               },
               {
                 label: 'Dev to',
-                href: 'https://dev.to/vinibgoulart',
+                href: 'https://dev.to/highsoftsistemas',
               },
               {
                 label: 'Vagas',
