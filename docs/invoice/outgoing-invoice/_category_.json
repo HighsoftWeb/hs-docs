@@ -1,0 +1,13 @@
+{
+  "label": "Nota Fiscal de Saída",
+  "collapsible": true,
+  "collapsed": true,
+  "className": "red",
+  "link": {
+    "type": "generated-index",
+    "title": "Nota Fiscal de Saída"
+  },
+  "customProps": {
+    "description": "Nota Fiscal de Saída documentação"
+  }
+}

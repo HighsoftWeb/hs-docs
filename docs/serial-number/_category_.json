@@ -1,13 +1,13 @@
 {
-  "label": "NFE",
+  "label": "Tabela de Preço",
   "collapsible": true,
   "collapsed": true,
   "className": "red",
   "link": {
     "type": "generated-index",
-    "title": "NFE - Nota Fiscal Eletronica"
+    "title": "Tabela de Preço"
   },
   "customProps": {
-    "description": "Nota Fiscal Eletronica documentação"
+    "description": "Tabela de Preço documentação"
   }
 }

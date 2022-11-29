@@ -8,7 +8,6 @@ tags:
   - informations
   - sobre
   - nota fiscal
-  - controle fiscal
   - invoice
 ---
 

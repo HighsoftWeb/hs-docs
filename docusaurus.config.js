@@ -94,6 +94,11 @@ const config = {
             label: 'HSMovel',
             position: 'left',
           },
+          {
+            to: 'docs/tags',
+            label: 'Tags',
+            position: 'left',
+          },
           { to: '/blog', label: 'Blog', position: 'right' },
           {
             href: 'https://highsoftsistemas.com.br',

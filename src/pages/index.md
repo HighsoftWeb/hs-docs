@@ -8,7 +8,7 @@ hide_table_of_contents: true
 
 ## Documentação HSCorp e primeros passos
 
-Aprenda a começar no sistema e entender suas funcionalidades.
+Dando os primeiros passos no HSCorp.
 
 Acesse em [HSCorp Docs](docs/intro/getting-started).
 

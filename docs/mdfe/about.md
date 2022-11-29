@@ -10,3 +10,5 @@ tags:
   - controle fiscal
   - mdfe
 ---
+
+## Como funciona na Highsoft

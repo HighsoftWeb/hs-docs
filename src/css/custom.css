@@ -28,3 +28,7 @@
   --ifm-color-primary-lightest: #4ea9ff;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
+
+.grid-items-list > * {
+  margin-bottom: 0.8em;
+}

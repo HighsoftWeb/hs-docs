@@ -11,3 +11,5 @@ tags:
   - tabela de preço
   - price table
 ---
+
+## Como funciona na Highsoft

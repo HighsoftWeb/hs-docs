@@ -1,11 +1,13 @@
 ---
 id: about
-title: O que é o HSCorp
+title: O que é Produto
 sidebar_label: Sobre
 sidebar_position: 1
 tags:
   - about
   - informations
   - sobre
-  - HSCorp
+  - produto
 ---
+
+## Como funciona na Highsoft

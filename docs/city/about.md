@@ -1,11 +1,15 @@
 ---
 id: about
-title: O que é o HSCorp
+title: O que são Cidades
 sidebar_label: Sobre
 sidebar_position: 1
 tags:
   - about
   - informations
   - sobre
-  - HSCorp
+  - city
+  - cidades
+  - gerais
 ---
+
+## Como funciona na Highsoft

@@ -1,17 +1,14 @@
 ---
 id: about
-title: O que é Nota Fiscal de Serviços Eletrônica
+title: O que é Nota Fiscal de Saída
 sidebar_label: Sobre
 sidebar_position: 1
 tags:
   - about
   - informations
   - sobre
-  - nfs-e
   - nota fiscal
-  - controle fiscal
   - invoice
-  - nota fiscal de serviço eletronica
 ---
 
 ## Como funciona na Highsoft

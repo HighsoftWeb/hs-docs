@@ -11,3 +11,5 @@ tags:
   - gerenciamento
   - expedição
 ---
+
+## Como funciona na Highsoft

@@ -12,3 +12,5 @@ tags:
   - cliente
   - prospecção
 ---
+
+## Como funciona na Highsoft

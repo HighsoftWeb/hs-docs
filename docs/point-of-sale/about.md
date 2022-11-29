@@ -10,3 +10,5 @@ tags:
   - caixa
   - gestão
 ---
+
+## Como funciona na Highsoft

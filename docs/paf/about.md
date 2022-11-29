@@ -10,3 +10,5 @@ tags:
   - controle fiscal
   - paf
 ---
+
+## Como funciona na Highsoft
