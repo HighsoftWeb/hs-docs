@@ -1,6 +1,6 @@
 ---
 id: serial-number
-title: Gerais
+title: Numbero de Série
 sidebar_position: 2
 sidebar_label: Gerais
 tags:

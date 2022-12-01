@@ -1,6 +1,6 @@
 ---
 id: customer
-title: Gerais
+title: Clientes
 sidebar_position: 2
 sidebar_label: Gerais
 tags:

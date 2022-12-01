@@ -1,6 +1,6 @@
 ---
 id: price-table
-title: Gerais
+title: Tabela de Preço
 sidebar_position: 2
 sidebar_label: Gerais
 tags:

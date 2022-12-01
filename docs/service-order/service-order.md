@@ -1,6 +1,6 @@
 ---
 id: service-order
-title: Gerais
+title: Ordem de Serviço
 sidebar_position: 2
 sidebar_label: Gerais
 tags:

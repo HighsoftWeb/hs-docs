@@ -1,6 +1,6 @@
 ---
 id: outgoing-invoice
-title: Gerais
+title: Nota Fiscal de Saída
 sidebar_position: 2
 sidebar_label: Gerais
 tags:

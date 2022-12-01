@@ -1,6 +1,6 @@
 ---
 id: order
-title: Gerais
+title: Orçamentos
 sidebar_position: 2
 sidebar_label: Gerais
 tags:

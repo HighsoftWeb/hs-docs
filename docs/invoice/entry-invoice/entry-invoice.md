@@ -1,6 +1,6 @@
 ---
 id: entry-invoice
-title: Gerais
+title: Nota Fiescal de Entrada
 sidebar_position: 2
 sidebar_label: Gerais
 tags:

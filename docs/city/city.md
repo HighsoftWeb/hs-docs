@@ -1,6 +1,6 @@
 ---
 id: city
-title: Gerais
+title: Cidades
 sidebar_position: 2
 sidebar_label: Gerais
 tags:

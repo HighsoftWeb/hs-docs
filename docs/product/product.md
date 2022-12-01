@@ -1,6 +1,6 @@
 ---
 id: product
-title: Gerais
+title: Produto
 sidebar_position: 2
 sidebar_label: Gerais
 tags:
