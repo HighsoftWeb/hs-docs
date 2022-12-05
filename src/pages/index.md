@@ -16,10 +16,10 @@ Acesse em [HSCorp Docs](docs/intro/getting-started).
 
 De os primeiros passos para iniciar sua integração do ERP com seu web site.
 
-Acesse em [HSCorp Docs](docs/intro/getting-started).
+Acesse em [HSIntegrador Docs](docs-integrador/intro/getting-started).
 
 ## Documentação HSMovel e primeros passos
 
 De os primeiros passos para ter o seu sistema ERP na palma da sua mão.
 
-Acesse em [HSCorp Docs](docs/intro/getting-started).
+Acesse em [HSMovel Docs](docs-movel/intro/getting-started).

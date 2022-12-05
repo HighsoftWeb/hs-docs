@@ -34,6 +34,7 @@ const config = {
           showReadingTime: true,
           editUrl:
             'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+          blogSidebarCount: 'ALL',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -144,8 +145,8 @@ const config = {
                 href: 'https://www.facebook.com/HighsoftSistemas',
               },
               {
-                label: 'Github',
-                href: 'https://github.com/HighsoftWeb',
+                label: 'Twitter',
+                href: 'https://twitter.com/highsoftsistema',
               },
             ],
           },
@@ -153,8 +154,8 @@ const config = {
             title: 'Extra',
             items: [
               {
-                label: 'Blog',
-                to: '/blog',
+                label: 'Github',
+                href: 'https://github.com/HighsoftWeb',
               },
               {
                 label: 'Dev to',
