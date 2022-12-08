@@ -158,6 +158,10 @@ const config = {
                 href: 'https://github.com/HighsoftWeb',
               },
               {
+                label: 'Vagas',
+                href: 'https://highsoftsistemas.com.br/vagas',
+              },
+              {
                 label: 'Dev to',
                 href: 'https://dev.to/highsoftsistemas',
               },
