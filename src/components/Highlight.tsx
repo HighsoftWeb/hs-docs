@@ -34,4 +34,14 @@ Highlight.shortcut = ({ children }) => (
   </span>
 );
 
+Highlight.text = ({ children }) => (
+  <span
+    style={{
+      color: '#88a1b8',
+    }}
+  >
+    {children}
+  </span>
+);
+
 export default Highlight;

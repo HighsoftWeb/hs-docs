@@ -10,4 +10,5 @@ export default {
   highlight: Highlight,
   fieldExplain: Highlight.fieldExplain,
   shortcut: Highlight.shortcut,
+  colorText: Highlight.text,
 };
