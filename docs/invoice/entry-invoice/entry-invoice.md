@@ -1,6 +1,6 @@
 ---
 id: entry-invoice
-title: Nota Fiescal de Entrada
+title: Nota Fiscal de Entrada
 sidebar_position: 2
 sidebar_label: Gerais
 tags:

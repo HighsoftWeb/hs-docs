@@ -1,13 +1,12 @@
 ---
-id: about
-title: O que é o HSIntegrador
-sidebar_label: Sobre
-sidebar_position: 1
+id: getting-started
+title: Configurando o HSMovel
+sidebar_label: Começando
+sidebar_position: 2
 tags:
-  - about
-  - informations
-  - sobre
-  - HSIntegrador
+  - flow
+  - getting-started
+  - comecando
 ---
 
 ## Work in Progress
