@@ -81,7 +81,7 @@ const config = {
         },
         items: [
           {
-            to: 'docs/intro/getting-started',
+            to: 'docs/intro/comecando',
             label: 'HSCorp',
             position: 'left',
           },
