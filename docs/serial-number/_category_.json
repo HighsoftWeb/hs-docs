@@ -1,13 +1,13 @@
 {
-  "label": "Tabela de Preço",
+  "label": "Código de Serie",
   "collapsible": true,
   "collapsed": true,
   "className": "red",
   "link": {
     "type": "generated-index",
-    "title": "Tabela de Preço"
+    "title": "Código de Serie"
   },
   "customProps": {
-    "description": "Tabela de Preço documentação"
+    "description": "Código de Serie documentação"
   }
 }
