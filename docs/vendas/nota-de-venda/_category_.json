@@ -1,0 +1,13 @@
+{
+  "label": "Nota Fiscal de Venda",
+  "collapsible": true,
+  "collapsed": true,
+  "className": "red",
+  "link": {
+    "type": "generated-index",
+    "title": "Nota Fiscal de Venda"
+  },
+  "customProps": {
+    "description": "Nota Fiscal de Venda documentação"
+  }
+}

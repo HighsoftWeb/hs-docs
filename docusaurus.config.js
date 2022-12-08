@@ -85,16 +85,16 @@ const config = {
             label: 'HSCorp',
             position: 'left',
           },
-          {
-            to: 'docs-integrador/intro/getting-started',
-            label: 'HSIntegrador',
-            position: 'left',
-          },
-          {
-            to: 'docs-movel/intro/getting-started',
-            label: 'HSMovel',
-            position: 'left',
-          },
+          // {
+          //   to: 'docs-integrador/intro/getting-started',
+          //   label: 'HSIntegrador',
+          //   position: 'left',
+          // },
+          // {
+          //   to: 'docs-movel/intro/getting-started',
+          //   label: 'HSMovel',
+          //   position: 'left',
+          // },
           {
             to: 'docs/tags',
             label: 'Tags',
@@ -121,16 +121,16 @@ const config = {
             items: [
               {
                 label: 'HSCorp',
-                to: '/docs/intro/getting-started',
+                to: '/docs/intro/comecando',
               },
-              {
-                label: 'HSIntegrador',
-                to: '/docs-integrador/intro/getting-started',
-              },
-              {
-                label: 'HSMovel',
-                to: '/docs-movel/intro/getting-started',
-              },
+              // {
+              //   label: 'HSIntegrador',
+              //   to: '/docs-integrador/intro/getting-started',
+              // },
+              // {
+              //   label: 'HSMovel',
+              //   to: '/docs-movel/intro/getting-started',
+              // },
             ],
           },
           {

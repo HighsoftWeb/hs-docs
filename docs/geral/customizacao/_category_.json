@@ -1,0 +1,13 @@
+{
+  "label": "Customização",
+  "collapsible": true,
+  "collapsed": true,
+  "className": "red",
+  "link": {
+    "type": "generated-index",
+    "title": "Customização/Personalização existentes no HSCorp"
+  },
+  "customProps": {
+    "description": "Customização documentação"
+  }
+}

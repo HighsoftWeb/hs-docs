@@ -1,0 +1,13 @@
+{
+  "label": "Contas a Receber",
+  "collapsible": true,
+  "collapsed": true,
+  "className": "red",
+  "link": {
+    "type": "generated-index",
+    "title": "Contas a Receber"
+  },
+  "customProps": {
+    "description": "Contas a Receber documentação"
+  }
+}

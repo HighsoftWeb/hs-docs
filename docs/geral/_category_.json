@@ -1,0 +1,13 @@
+{
+  "label": "Gerais",
+  "collapsible": true,
+  "collapsed": true,
+  "className": "red",
+  "link": {
+    "type": "generated-index",
+    "title": "Gerais"
+  },
+  "customProps": {
+    "description": "Gerais documentação"
+  }
+}

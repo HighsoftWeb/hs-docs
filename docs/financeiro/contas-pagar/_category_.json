@@ -1,0 +1,13 @@
+{
+  "label": "Contas a Pagar",
+  "collapsible": true,
+  "collapsed": true,
+  "className": "red",
+  "link": {
+    "type": "generated-index",
+    "title": "Contas a Pagar"
+  },
+  "customProps": {
+    "description": "Contas a Pagar documentação"
+  }
+}

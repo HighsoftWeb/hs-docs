@@ -1,0 +1,13 @@
+{
+  "label": "Produtos",
+  "collapsible": true,
+  "collapsed": true,
+  "className": "red",
+  "link": {
+    "type": "generated-index",
+    "title": "Produtos"
+  },
+  "customProps": {
+    "description": "Produtos documentação"
+  }
+}

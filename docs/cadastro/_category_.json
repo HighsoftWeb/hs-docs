@@ -1,0 +1,13 @@
+{
+  "label": "Cadastros",
+  "collapsible": true,
+  "collapsed": true,
+  "className": "red",
+  "link": {
+    "type": "generated-index",
+    "title": "Cadastros"
+  },
+  "customProps": {
+    "description": "Cadastros documentação"
+  }
+}

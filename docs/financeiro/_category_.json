@@ -1,0 +1,13 @@
+{
+  "label": "Financeiro",
+  "collapsible": true,
+  "collapsed": true,
+  "className": "red",
+  "link": {
+    "type": "generated-index",
+    "title": "Financeiro"
+  },
+  "customProps": {
+    "description": "Financeiro documentação"
+  }
+}

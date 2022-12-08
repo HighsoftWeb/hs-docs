@@ -1,0 +1,13 @@
+{
+  "label": "Vendas",
+  "collapsible": true,
+  "collapsed": true,
+  "className": "red",
+  "link": {
+    "type": "generated-index",
+    "title": "Vendas"
+  },
+  "customProps": {
+    "description": "Vendas documentação"
+  }
+}
