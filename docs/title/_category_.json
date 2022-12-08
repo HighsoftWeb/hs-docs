@@ -1,0 +1,13 @@
+{
+  "label": "Títulos",
+  "collapsible": true,
+  "collapsed": true,
+  "className": "red",
+  "link": {
+    "type": "generated-index",
+    "title": "Títulos"
+  },
+  "customProps": {
+    "description": "Títulos documentação"
+  }
+}
