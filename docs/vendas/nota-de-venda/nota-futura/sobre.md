@@ -1,0 +1,23 @@
+---
+id: sobre
+title: O que é Nota Fiscal de Entrega Futura
+sidebar_label: Sobre
+sidebar_position: 1
+tags:
+  - sobre
+  - nota fiscal
+  - nota fiscal de venda
+  - nota futura
+---
+
+A venda para entrega futura consiste em uma modalidade de venda em que o contribuinte do ICMS efetua uma venda de uma determinada mercadoria, sem que ocorra, no entanto a entrega imediata desta mercadoria, ou seja, a venda é realizada, mas com a entrega efetiva da mercadoria em uma data posterior.
+
+Um exemplo da aplicação desta operação de venda para entrega futura se dá quando um estabelecimento comercial resolve efetuar uma compra em grande quantidade, por conta de um preço mais atrativo, por exemplo, contudo não dispõe de instalações físicas suficientes para receber todo o lote de produtos adquiridos, assim este solicita ao seu fornecedor que seja efetuada uma operação de venda para entrega futura, ou seja, o fornecedor emitirá uma nota fiscal de venda, mas entregará as mercadorias em datas posteriores, conforme a necessidade do adquirente.
+
+Inicialmente a operação de venda para entrega futura acontece pela emissão da nota fiscal de venda propriamente dita, por parte do fornecedor, lembrando que esta nota fiscal não corresponde a uma saída física da mercadoria. É apenas o documento fiscal que representa o faturamento realizado.
+
+**Créditos**
+
+- [venda para entrega futura - Boletim-ICMS](https://www.econeteditora.com.br/boletim_icms/bo-icms-pa/pa-12/boletim-11/icms_pa_venda_futura.php#:~:text=A%20venda%20para%20entrega%20futura,mercadoria%20em%20uma%20data%20posterior.)
+
+## Como funciona na Highsoft
