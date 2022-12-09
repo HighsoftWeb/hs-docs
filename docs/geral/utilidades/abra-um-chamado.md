@@ -7,5 +7,3 @@ tags:
   - geral
   - utilidades
 ---
-
-oi

@@ -10,6 +10,6 @@ tags:
 
 Trabalhamos diariamente para melhor a interação do usuário com o sistema, ficaremos em contribuições suas para melhor atedê-lo.
 
-Você pode contribuir no nosso repositório no [github](https://github.com/HighsoftWeb), ou [abrir um chamado](./abra-um-chamado).
+Você pode contribuir no nosso repositório no [github](https://github.com/HighsoftWeb), ou [abrir um chamado](/docs/geral/utilidades/abra-um-chamado).
 
 Contamos com sua colaboração!
