@@ -1,6 +1,6 @@
 ---
 id: sobre
-title: O que é Nota Fiscal de Entrega Simples
+title: O que é Nota Fiscal de Entrega Simples Remessa
 sidebar_label: Sobre
 sidebar_position: 1
 tags:
