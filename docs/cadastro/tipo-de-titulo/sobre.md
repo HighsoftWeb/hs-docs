@@ -19,4 +19,4 @@ Como representatividade podemos listar:
 
 Os Tipos de Títulos são usados no campo **TIPO** localizado no cabeçalho dos [orçamentos](/docs/category/orçamentos), [notas de venda](/docs/category/nota-fiscal-de-venda), [notas de entrada](/docs/category/nota-fiscal-de-entrada), [títulos a pagar](/docs/category/títulos-a-pagar) e [títulos a receber](/docs/category/títulos-a-receber). Após este ser utilizado em algum desses campos seguindo de uma gravação ou processamento da tela utilizada o sistema o sistema geraria um movimento de caixa ou algum informativo financeiro para pagamento posterior de clientes ou fornecedores em nome dos mesmos listados.
 
-Podemos dizer então que os Tipos de Títulos quando cadastrados da forma correta são os principais responsáveis pelo controle financeiro, gerando informativos de caixas, contas a receber e a pagar além de renegociações referentes a títulos vencidos e a vencer.
+Podemos dizer então que os Tipos de Títulos quando cadastrados da forma correta são os principais responsáveis pelo controle financeiro, gerando informativos de caixas, contas a receber e a pagar, além de renegociações referentes a títulos vencidos e a vencer.
