@@ -1,0 +1,13 @@
+{
+  "label": "Simples Remessa",
+  "collapsible": true,
+  "collapsed": true,
+  "className": "red",
+  "link": {
+    "type": "generated-index",
+    "title": "Nota Fiscal de Saida Simples Remessa"
+  },
+  "customProps": {
+    "description": "Nota Fiscal de Saida Simples Remessa documentação"
+  }
+}

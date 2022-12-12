@@ -6,7 +6,7 @@ sidebar_position: 1
 tags:
   - sobre
   - nota fiscal
-  - nota fiscal de venda
+  - nota fiscal de saida
   - nota futura
 ---
 

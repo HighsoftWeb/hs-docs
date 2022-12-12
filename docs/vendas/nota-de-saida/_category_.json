@@ -1,13 +1,13 @@
 {
-  "label": "Nota Fiscal de Venda",
+  "label": "Nota Fiscal de Saida",
   "collapsible": true,
   "collapsed": true,
   "className": "red",
   "link": {
     "type": "generated-index",
-    "title": "Nota Fiscal de Venda"
+    "title": "Nota Fiscal de Saida"
   },
   "customProps": {
-    "description": "Nota Fiscal de Venda documentação"
+    "description": "Nota Fiscal de Saida documentação"
   }
 }
