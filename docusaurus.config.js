@@ -69,7 +69,7 @@ const config = {
     [
       require.resolve('@cmfcmf/docusaurus-search-local'),
       {
-        indexBlog: false,
+        indexBlog: true,
       },
     ],
   ],
@@ -110,7 +110,7 @@ const config = {
             label: 'Tags',
             position: 'left',
           },
-          { to: '/blog', label: 'Blog', position: 'right' },
+          { to: '/blog', label: 'FAQ', position: 'right' },
           {
             href: 'https://highsoftsistemas.com.br',
             label: 'Site',
