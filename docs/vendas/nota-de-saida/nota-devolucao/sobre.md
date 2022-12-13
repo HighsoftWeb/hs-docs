@@ -1,6 +1,6 @@
 ---
 id: sobre
-title: O que é Devolução de Nota Fiscal de Entrega
+title: O que é Devolução de Nota Fiscal de Entrada
 sidebar_label: Sobre
 sidebar_position: 1
 tags:
