@@ -1,0 +1,13 @@
+{
+  "label": "Clientes sem movimentos",
+  "collapsible": true,
+  "collapsed": true,
+  "className": "red",
+  "link": {
+    "type": "generated-index",
+    "title": "Clientes sem movimentos"
+  },
+  "customProps": {
+    "description": "Clientes sem movimentos documentação"
+  }
+}

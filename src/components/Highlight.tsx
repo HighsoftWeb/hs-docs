@@ -34,10 +34,10 @@ Highlight.shortcut = ({ children }) => (
   </span>
 );
 
-Highlight.text = ({ children }) => (
+Highlight.text = ({ children, color }) => (
   <span
     style={{
-      color: '#88a1b8',
+      color: color ?? '#88a1b8',
     }}
   >
     {children}

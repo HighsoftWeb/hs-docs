@@ -8,7 +8,6 @@ export default {
   // Map the "highlight" tag to our <Highlight /> component!
   // `Highlight` will receive all props that were passed to `highlight` in MDX
   highlight: Highlight,
-  fieldExplain: Highlight.fieldExplain,
   shortcut: Highlight.shortcut,
   colorText: Highlight.text,
 };
