@@ -5,9 +5,9 @@ sidebar_label: Sobre
 sidebar_position: 1
 tags:
   - sobre
-  - nota fiscal
-  - nota fiscal de venda
-  - nota simples
+  - nota-fiscal
+  - nota-fiscal-de-venda
+  - nota-simples
 ---
 
 As notas de simples remessas são aquelas emitidas quando não houve compra ou venda de um item. São utilizadas para enviar e receber insumos entre filiais, brindes, realizar doações e outras transações sem fins comerciais, de modo a atender as exigências da legislação tributária nacional.

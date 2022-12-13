@@ -5,8 +5,8 @@ sidebar_label: Sobre
 sidebar_position: 1
 tags:
   - sobre
-  - nota fiscal
-  - nota fiscal de saida
+  - nota-fiscal
+  - nota-fiscal-de-saida
 ---
 
 ## Como funciona na Highsoft

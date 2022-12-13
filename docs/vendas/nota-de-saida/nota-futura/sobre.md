@@ -5,9 +5,9 @@ sidebar_label: Sobre
 sidebar_position: 1
 tags:
   - sobre
-  - nota fiscal
-  - nota fiscal de saida
-  - nota futura
+  - nota-fiscal
+  - nota-fiscal de saida
+  - nota-futura
 ---
 
 A venda para entrega futura consiste em uma modalidade de venda em que o contribuinte do ICMS efetua uma venda de uma determinada mercadoria, sem que ocorra, no entanto a entrega imediata desta mercadoria, ou seja, a venda é realizada, mas com a entrega efetiva da mercadoria em uma data posterior.
