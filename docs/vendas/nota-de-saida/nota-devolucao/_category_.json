@@ -1,13 +1,13 @@
 {
-  "label": "Devolução de Nota de Entrega",
+  "label": "Devolução de Nota de Entrada",
   "collapsible": true,
   "collapsed": true,
   "className": "red",
   "link": {
     "type": "generated-index",
-    "title": "Devolução de Nota de Entrega"
+    "title": "Devolução de Nota de Entrdaa"
   },
   "customProps": {
-    "description": "Devolução de Nota de Entrega documentação"
+    "description": "Devolução de Nota de Entrada documentação"
   }
 }
