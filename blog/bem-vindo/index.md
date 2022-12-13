@@ -9,11 +9,9 @@ sidebar_position: 1
 
 ## O que eu encontro aqui?
 
-Olá, seja bem vindo ao FAQ da Highsoft Sistemas. Minha missão aqui é lhe situar nesse "acomulado" de informações e permitir que você encontre o que está procurando :smile:!
+Olá, seja bem vindo ao FAQ da Highsoft Sistemas. Minha missão aqui é lhe situar nesse "acumulado" de informações e permitir que você encontre o que está procurando :smile:!
 
 Primeiramente, essa página é destinada a tutoriais de como fazer algo, curiosidades e artigos sobre o nosso sistema! Você pode tambem consultar as nossas [Docs](/docs/intro/comecando), nela usamos termos mais técnicos.
-
-Ajude-nos a melhorar! Nos diga o que você estava procurando e não encontrou em [Abra um Ticket](https://highsoftsistemas.com.br/chamado). Você pode buscar outras formas de contribuir em [Utilidades](/docs/geral/utilidades/contribua).
 
 ## Formas de encontrar minha dúvida
 
