@@ -11,4 +11,4 @@ tags:
 
 ## Como funciona na Highsoft?
 
-Na highsoft, possuimos uma tela que serve ter um relatório detalhado dos clientes que não tiveram nenhum tipo de movimentação no periodo, podendo ter acesso prático e ágil aos principais dados financeiros e comerciais dos clientes em questão.
+Na highsoft, possuimos uma tela que serve para consultarmos e receber um relatório detalhado dos clientes que não tiveram nenhum tipo de movimentação no periodo, podendo ter acesso prático e ágil aos principais dados financeiros e comerciais dos clientes em questão.
