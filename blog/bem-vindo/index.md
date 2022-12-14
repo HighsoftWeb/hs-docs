@@ -23,5 +23,5 @@ Possuímos uma barra de navegação na lateral esquerda do nosso blog! Você pod
 Contamos com uma barra de pesquisa no canto superior direito do site tambem! Sinta-se livre para pesquisar sua dúvida.
 
 :::tip
-Caso não encontre oque esteja procurando, consulte [Faltou algo na documentação?](/docs/geral/utilidades/contribua)
+Caso não encontre oque esteja procurando, consulte [Faltou algo na documentação?](/docs/contribua)
 :::tip
