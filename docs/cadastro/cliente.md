@@ -1,9 +1,10 @@
 ---
 id: cliente
 title: Clientes
-sidebar_position: 2
-sidebar_label: Gerais
+sidebar_label: Clientes
 tags:
   - cliente
   - cadastro
 ---
+
+## Como funciona na Highsoft
