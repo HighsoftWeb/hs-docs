@@ -2,9 +2,8 @@
 slug: duvida
 title: Não encontrei minha dúvida!
 authors: [vinigoulart]
-date: 2022-12-13T10:00
+date: 2099-12-31T10:00
 tags: [docs, tutorial, getting-started]
-sidebar_position: 2
 ---
 
 ## Não encontrei minha dúvida no FAQ
