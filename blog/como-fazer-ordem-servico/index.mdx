@@ -1,0 +1,33 @@
+---
+slug: como-fazer-ordem-servico
+title: Como fazer uma Ordem de Serviço?
+authors: [hugo]
+date: 2022-12-14T10:00
+tags: [docs, tutorial, nota-fiscal, devolucao-nota]
+---
+
+Para conseguir fazer uma Condição de Pagamento devemos ir no caminho: <br/><highlight bgColor="#54638c">Comercial > Saídas > Ordem de Serviço > Movimentos</highlight>. [Não encontrei esse menu](/docs/intro/comecando#não-encontrei-o-menu-desejado)
+
+Com a tela de OS aberta devemos clicar no botão `Novo` e começar a preencher as informações:
+
+- **Cod. Cliente:** Pesquisar o cliente desejado para abertura da OS. (Caso não encontre o mesmo pode ser cadastrado apertando o botão F2 para realizar um pré-cadastro ou podemos ir na tela de cadastro de clientes e efetuar um cadastro de forma completa);
+- **Cod. Condição Pagamento:** Condição de pagamento inicial para abertura da OS;
+- **Tipo:** Tipo de título utilizado inicialmente para abertura da OS;
+- **Cod.Operação:** Informação já vem preenchida automaticamente, porém pode ser alterado se necessário;
+- **Cod.Representante:** Código do representante principal da venda;
+
+Após aplicar o representante o cursor indica alocar um produto ou serviço a essa OS.
+
+Para isso basta efetuar a pesquisa pelo campo utilizado, **PRODUTO/SERVIÇO**, **COD. FABRICANTE**, **COD. BARRAS** ou até mesmo aplicando um F11 para uma consulta avançada.
+
+## Parcelas condições de Pagamento
+
+Na mesma tela, usaremos aba **parcelas condições de pagamento**, onde o usuário informará as parcelas de acordo com a condição cadastrada, clicando em `Novo` para cadastrar.
+
+No exemplo a baixo o usuário optou por cadastrar 1+3. A quantidade de parcelas a serem cadastra será 1 parcela, sem dias de intervalos, de 25% de entrada, as outras 3 parcelas será de 30 dias 75%.
+
+![parcelas](./img/parcelas.png)
+
+:::warning
+Devemos tomar cuidado ao vincularmos uma condição de pagamento e não nos atentarmos a operação utilizada. Uma operação sem configuração desejada pode não gerar dados de caixa ou financeiros.
+:::

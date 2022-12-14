@@ -2,7 +2,6 @@
 id: erros
 title: O que fazer com Avisos no HSCorp?
 sidebar_label: Avisos
-sidebar_position: 1
 tags:
   - geral
   - utilidades
