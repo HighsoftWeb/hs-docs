@@ -2,6 +2,7 @@
   "label": "Financeiro",
   "collapsible": true,
   "collapsed": true,
+  "position": 6,
   "className": "red",
   "link": {
     "type": "generated-index",

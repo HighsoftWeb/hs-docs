@@ -2,6 +2,7 @@
 id: contribua
 title: Faltou algo na documentação? Nos ajude a melhorar!
 sidebar_label: Faltou algo na documentação?
+sidebar_position: 8
 tags:
   - geral
   - utilidades

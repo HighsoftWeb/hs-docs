@@ -1,14 +1,13 @@
 {
-  "label": "Cadastros",
+  "label": "Nota Fiscal de entrada",
   "collapsible": true,
   "collapsed": true,
   "className": "red",
-  "position": 2,
   "link": {
     "type": "generated-index",
-    "title": "Cadastros"
+    "title": "Nota Fiscal de entrada"
   },
   "customProps": {
-    "description": "Cadastros documentação"
+    "description": "Nota Fiscal de entrada documentação"
   }
 }
