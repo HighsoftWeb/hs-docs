@@ -1,0 +1,13 @@
+{
+  "label": "Estorno de Nota de Venda",
+  "collapsible": true,
+  "collapsed": true,
+  "className": "red",
+  "link": {
+    "type": "generated-index",
+    "title": "Estorno de Nota de Venda"
+  },
+  "customProps": {
+    "description": "Estorno de Nota de Venda documentação"
+  }
+}

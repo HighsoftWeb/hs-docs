@@ -1,13 +1,13 @@
 {
-  "label": "Devolução de Nota de Entrada",
+  "label": "Devolução de Nota de Saída",
   "collapsible": true,
   "collapsed": true,
   "className": "red",
   "link": {
     "type": "generated-index",
-    "title": "Devolução de Nota de Entrdaa"
+    "title": "Devolução de Nota de Saída"
   },
   "customProps": {
-    "description": "Devolução de Nota de Entrada documentação"
+    "description": "Devolução de Nota de Saída documentação"
   }
 }

@@ -1,13 +1,13 @@
 ---
 id: sobre
-title: O que é Devolução de Nota Fiscal de Saída
+title: O que é Estorno de Nota de Venda
 sidebar_label: Sobre
 sidebar_position: 1
 tags:
   - sobre
   - nota-fiscal
   - nota-fiscal-de-saida
-  - devolucao-nota
+  - estorno-nota
 ---
 
 A Nota Fiscal de Devolução tem o objetivo de anular o processo de compra ou a própria nota fiscal. Ou seja, quando a venda não é concluída ou existe a necessidade de anular uma nota fiscal que já passou do prazo de cancelamento, é necessária a emissão da NFe de Devolução.
