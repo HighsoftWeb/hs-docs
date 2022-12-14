@@ -3,8 +3,12 @@ slug: duvida
 title: Não encontrei minha dúvida!
 authors: [vinigoulart]
 date: 2099-12-31T10:00
+image: ./image.jpg
 tags: [docs, tutorial, getting-started]
+keywords: [docs, tutorial, getting-started]
 ---
+
+![banner](./image.jpg)
 
 ## Não encontrei minha dúvida no FAQ
 

@@ -3,10 +3,14 @@ slug: welcome
 title: Bem vindo!
 authors: [vinigoulart]
 date: 2099-12-31T10:00
+image: ./image.png
 tags: [docs, tutorial, getting-started]
+keywords: [docs, tutorial, getting-started]
 ---
 
 ## O que eu encontro aqui?
+
+![banner](./image.png)
 
 Olá, seja bem vindo ao FAQ da Highsoft Sistemas. Minha missão aqui é lhe situar nesse "acumulado" de informações e permitir que você encontre o que está procurando :smile:!
 
