@@ -1,0 +1,13 @@
+{
+  "label": "Condição de Pagamento",
+  "collapsible": true,
+  "collapsed": true,
+  "className": "red",
+  "link": {
+    "type": "generated-index",
+    "title": "Condição de Pagamento"
+  },
+  "customProps": {
+    "description": "Condição de Pagamento documentação"
+  }
+}
