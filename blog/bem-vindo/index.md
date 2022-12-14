@@ -4,7 +4,6 @@ title: Bem vindo!
 authors: [vinigoulart]
 date: 2022-12-13T10:00
 tags: [docs, tutorial, getting-started]
-sidebar_position: 1
 ---
 
 ## O que eu encontro aqui?

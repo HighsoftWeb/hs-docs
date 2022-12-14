@@ -35,6 +35,8 @@ const config = {
           editUrl:
             'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
           blogSidebarCount: 'ALL',
+          blogTitle: 'Highsoft FAQ & Blog!',
+          postsPerPage: 2,
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),

@@ -1,8 +1,10 @@
 ---
 slug: como-fazer-ordem-servico
 title: Como fazer uma Ordem de Serviço?
+description: Confira como fazer uma ordem de serviço no HSCorp
+image: https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.contabeis.com.br%2Fnoticias%2F44488%2Fordem-de-servico-o-que-e-para-que-serve-e-como-emitir%2F&psig=AOvVaw2Yu8VlPp3u5z9eK4_wMbZe&ust=1671115123295000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCPCUzoyr-fsCFQAAAAAdAAAAABAE
 authors: [hugo]
-date: 2022-12-14T10:00
+date: 2022-12-14T11:00
 tags: [docs, tutorial, nota-fiscal, devolucao-nota]
 ---
 
@@ -20,14 +22,29 @@ Após aplicar o representante o cursor indica alocar um produto ou serviço a es
 
 Para isso basta efetuar a pesquisa pelo campo utilizado, **PRODUTO/SERVIÇO**, **COD. FABRICANTE**, **COD. BARRAS** ou até mesmo aplicando um F11 para uma consulta avançada.
 
-## Parcelas condições de Pagamento
+Caso queira alocar um prestador de serviços para o serviço informado, na própria linha do item temos o campo **COD. PREST. SERVIÇO**.
 
-Na mesma tela, usaremos aba **parcelas condições de pagamento**, onde o usuário informará as parcelas de acordo com a condição cadastrada, clicando em `Novo` para cadastrar.
+## Informações adicionais
 
-No exemplo a baixo o usuário optou por cadastrar 1+3. A quantidade de parcelas a serem cadastra será 1 parcela, sem dias de intervalos, de 25% de entrada, as outras 3 parcelas será de 30 dias 75%.
+Na parte inferior da tela temos os campos:
 
-![parcelas](./img/parcelas.png)
+- **Defeito 0:** Utilizado para informar problema constatado e laudo técnico;
+- **Estágios 1:** Aba para controle de estágios da OS ou Leeds para o CRM;
+- **Parcelas 2:** Informação registrada conforme negociação de condição de pagamento mais tipos de título informado no cabeçalho da OS;
+- **Impostos 3:** Campo totalizador de impostos coletados dos valores de produtos e alíquotas listados nos itens;
+- **Obs 4:** Campo para aplicar alguma observação desejada;
+- **Mens 5:** Campo para alocar mensagem de nota fiscal de venda;
+- **Transp 6:** Campo utilizado para alocar transportadora, quantidades e volumes;
+- **Div 7:** Campo direcionado as informações de peso, espécie e marca;
+- **Canc 8:** Campo direcionado ao destacamento de motivo de cancelamento de OS caso esta seja cancelada;
+- **Últ. Compras 9:** ;
+- **Anotações 10:** Campo direcionado para complementar a aba Obs 4, caso esta tenha um grande volume de escrita;
+- **Dados Complementares 11:** Informação de endereço de entrega e cobrança presente na aba clientes 2 do cadastro de clientes;
+- **Outras informações 12:** Campos destinados a registrar informações de procedimentos realizados na OS como aprovação, alteração e tipo de avaliação referente a usuários efetuando procedimentos além do permitido por seus grupos de usuários;
+- **Documentos 13:** Campo direcionado a guardar caminhos de arquivos salvos em redes referente a OS como por exemplo documentos ou fotos;
 
-:::warning
-Devemos tomar cuidado ao vincularmos uma condição de pagamento e não nos atentarmos a operação utilizada. Uma operação sem configuração desejada pode não gerar dados de caixa ou financeiros.
+:::caution
+Devemos tomar cuidado ao alterarmos códigos que recalculem o valor dos produtos nas Ordens de Serviço. Esse fator pode alterar os preços com base nas tabelas atuais, perdendo assim a negociação do período da abertura da mesma.
+
+Devemos nos atentar na questão tributária e de comissionamento, pois a Ordem de Serviço é a base de emissão das notas fiscais de venda e serviço. Sendo estas as emissoras de informações financeiras da empresa.
 :::
