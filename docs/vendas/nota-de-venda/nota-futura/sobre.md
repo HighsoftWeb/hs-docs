@@ -6,7 +6,7 @@ sidebar_position: 1
 tags:
   - sobre
   - nota-fiscal
-  - nota-fiscal de saida
+  - nota-fiscal de venda
   - nota-futura
 ---
 
@@ -14,7 +14,7 @@ A venda para entrega futura consiste em uma modalidade de venda em que o contrib
 
 Um exemplo da aplicação desta operação de venda para entrega futura se dá quando um estabelecimento comercial resolve efetuar uma compra em grande quantidade, por conta de um preço mais atrativo, por exemplo, contudo não dispõe de instalações físicas suficientes para receber todo o lote de produtos adquiridos, assim este solicita ao seu fornecedor que seja efetuada uma operação de venda para entrega futura, ou seja, o fornecedor emitirá uma nota fiscal de venda, mas entregará as mercadorias em datas posteriores, conforme a necessidade do adquirente.
 
-Inicialmente a operação de venda para entrega futura acontece pela emissão da nota fiscal de venda propriamente dita, por parte do fornecedor, lembrando que esta nota fiscal não corresponde a uma saída física da mercadoria. É apenas o documento fiscal que representa o faturamento realizado.
+Inicialmente a operação de venda para entrega futura acontece pela emissão da nota fiscal de venda propriamente dita, por parte do fornecedor, lembrando que esta nota fiscal não corresponde a uma venda física da mercadoria. É apenas o documento fiscal que representa o faturamento realizado.
 
 **Créditos**
 

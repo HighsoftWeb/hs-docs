@@ -1,10 +1,10 @@
 ---
-id: nota-de-saida
-title: Nota Fiscal de Saida
+id: nota-de-venda
+title: Nota Fiscal de venda
 sidebar_position: 2
 sidebar_label: Gerais
 tags:
   - nota-fiscal
-  - nota-fiscal-de-saida
+  - nota-fiscal-de-venda
   - vendas
 ---

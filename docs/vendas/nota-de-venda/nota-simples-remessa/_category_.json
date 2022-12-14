@@ -5,9 +5,9 @@
   "className": "red",
   "link": {
     "type": "generated-index",
-    "title": "Nota Fiscal de Saida Simples Remessa"
+    "title": "Nota Fiscal de venda Simples Remessa"
   },
   "customProps": {
-    "description": "Nota Fiscal de Saida Simples Remessa documentação"
+    "description": "Nota Fiscal de venda Simples Remessa documentação"
   }
 }

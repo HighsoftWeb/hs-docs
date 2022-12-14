@@ -15,7 +15,7 @@ Ela também ajuda a fazer uma gestão melhor de tudo o que envolve o item recebi
 
 Toda mercadoria aquirida pela empresa ou retornada deve ser emitida e armazenada uma nota fiscal correspondente.
 
-De forma prática, nota fiscal de entrada é o documento para comprovação fiscal da movimentação de mercadorias recebidas, ao contrário da nota fiscal de saída, que é quando você vende algo. Tanto o fornecedor, como vimos antes, quanto o comprador, tem responsabilidade de emitir a nota. No caso do comprador, ela ocorre quando:
+De forma prática, nota fiscal de entrada é o documento para comprovação fiscal da movimentação de mercadorias recebidas, ao contrário da nota fiscal de venda, que é quando você vende algo. Tanto o fornecedor, como vimos antes, quanto o comprador, tem responsabilidade de emitir a nota. No caso do comprador, ela ocorre quando:
 
 - Ele dá entrada em um produto importado, pois a nota fiscal da empresa estrangeira não tem valor em território nacional;
 - O vendedor não é obrigado a emitir um documento fiscal;
@@ -24,7 +24,7 @@ De forma prática, nota fiscal de entrada é o documento para comprovação fisc
 
 É importante ressaltar que uma nota fiscal de entrada não está restrita à compra de um produto, pois também serve para outras situações em que há movimentação de mercadoria. Confira quais são elas:
 
-- Quando a empresa emite uma nota fiscal de saída, mas o cliente devolve a mercadoria. Ao recebê-la, é necessário emitir uma nota fiscal de entrada – e registrá-la novamente no estoque;
+- Quando a empresa emite uma nota fiscal de venda, mas o cliente devolve a mercadoria. Ao recebê-la, é necessário emitir uma nota fiscal de entrada – e registrá-la novamente no estoque;
 - Quando ocorre o chamado retorno de industrialização, realizado por um profissional autônomo ou avulso;
 - Quando a mercadoria tiver saído unicamente para uma feira ou exposição ao público e retornar à empresa.
 

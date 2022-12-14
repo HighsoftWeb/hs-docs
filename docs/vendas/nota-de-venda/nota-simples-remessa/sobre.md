@@ -25,6 +25,6 @@ Tipos de Remessa:
 
 ## Como funciona na Highsoft
 
-A nota de simples remessa no sistema é uma nota do tipo normal, que pode ser emitida pela tela de notas fiscais de saída. O que diferencia a nota de simples remessa de uma nota de venda será o código de operação (CFOP) e CSOSN/ST que define a operação da NF-e.
+A nota de simples remessa no sistema é uma nota do tipo normal, que pode ser emitida pela tela de notas fiscais de venda. O que diferencia a nota de simples remessa de uma nota de venda será o código de operação (CFOP) e CSOSN/ST que define a operação da NF-e.
 
 Conforme o tipo de remessa a ser emitido deve ser informado o CFOP no cabeçalho da nota e principalmente nos itens, em caso de dúvidas a assessoria contábil da empresa deve ser consultada.
