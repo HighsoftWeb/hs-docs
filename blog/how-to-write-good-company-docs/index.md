@@ -1,6 +1,7 @@
 ---
 slug: how-to-write-good-company-docs
-title: How to write good company docs
+title: Como escrever boas documentações
+description: Confira como fizemos nossas documentações na Highsoft Sistemas
 authors: [vinigoulart]
 date: 2022-12-05T10:00
 tags: [docs, tutorial]
