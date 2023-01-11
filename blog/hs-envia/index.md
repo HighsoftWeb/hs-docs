@@ -17,7 +17,7 @@ O HSEnvia é uma nova funcionalidade do HSCorp, que serve para você poder envia
 
 Você pode configurar mensagens padrões e automatizar todo o seu processo de marketing e cobrança!
 
-## Tutorials
+## Tutoriais
 
 - [Como configurar o HSEnvia](/faq/como-configurar-hsenvia)
 - [Funcionalidades Gerais do HSEnvia](/faq/como-utilizar-hsenvia#funcionalidades-gerais)
