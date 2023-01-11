@@ -35,7 +35,7 @@ const config = {
           editUrl:
             'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
           blogSidebarCount: 'ALL',
-          blogTitle: 'Highsoft FAQ & Blog!',
+          blogTitle: 'Highsoft Blog!',
           postsPerPage: 2,
         },
         theme: {
@@ -62,6 +62,17 @@ const config = {
         path: 'docs-movel',
         routeBasePath: 'docs-movel',
         sidebarPath: require.resolve('./sidebars.js'),
+      },
+    ],
+    [
+      '@docusaurus/plugin-content-blog',
+      {
+        id: 'faq',
+        path: 'faq',
+        routeBasePath: 'faq',
+        blogSidebarCount: 'ALL',
+        blogTitle: 'Highsoft FAQ!',
+        postsPerPage: 1,
       },
     ],
     [
@@ -109,7 +120,8 @@ const config = {
             label: 'Tags',
             position: 'left',
           },
-          { to: '/blog', label: 'FAQ', position: 'right' },
+          { to: '/blog', label: 'Blog', position: 'right' },
+          { to: '/faq', label: 'FAQ', position: 'right' },
           {
             href: 'https://highsoftsistemas.com.br',
             label: 'Site',

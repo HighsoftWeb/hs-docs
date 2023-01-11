@@ -1,0 +1,29 @@
+vinigoulart:
+  name: Vinicius Blazius Goulart
+  title: Software Engineer
+  url: https://github.com/ViniBGoulart
+  image_url: https://github.com/ViniBGoulart.png
+
+hugo:
+  name: Hugo Rafael Schmoeller
+  title: Tech Support
+  url: https://www.linkedin.com/in/hugo-rafael-schmoeller-marinho-da-costa-05873616a/
+  image_url: https://media-exp1.licdn.com/dms/image/C4E03AQFZ15eASzPKgQ/profile-displayphoto-shrink_800_800/0/1642685863714?e=1676505600&v=beta&t=eXlBJw8RtMlPEkJ1flKFXbJ-WcEr5_vQ-UeKmpIAW6w
+
+thaise:
+  name: Thaise Amador de Souza
+  title: Tech Support
+  url: https://www.linkedin.com/in/thaise-amador-de-souza-dos-santos-624234129/
+  image_url: https://media-exp1.licdn.com/dms/image/D4D03AQHmEhH8wRmLVA/profile-displayphoto-shrink_200_200/0/1670242268963?e=1676505600&v=beta&t=0LuSLPiJ3K69ia6v7qweAdD-yhK3mp4he6ZGWU-hXtE
+
+vitoria:
+  name: Vitória Arceno
+  title: Tech Support
+  url: https://www.linkedin.com/in/vit%C3%B3ria-arceno-6bb968164/
+  image_url: https://media-exp1.licdn.com/dms/image/C4E03AQEDSbykW5_HVg/profile-displayphoto-shrink_200_200/0/1653476799522?e=1676505600&v=beta&t=QwJIZ_dxTx3FLpodOyWIV-rkztHAbP8iISsATx4E2BU
+
+gabriel:
+  name: Gabriel Ramos
+  title: Tech Support
+  url: https://github.com/incubusdev/
+  image_url: https://github.com/incubusdev.png

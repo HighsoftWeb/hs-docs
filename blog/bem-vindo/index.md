@@ -10,7 +10,7 @@ keywords: [docs, tutorial, getting-started]
 
 ## O que eu encontro aqui?
 
-![banner](./image.png)
+![banner](image.png)
 
 Olá, seja bem vindo ao FAQ da Highsoft Sistemas. Minha missão aqui é lhe situar nesse "acumulado" de informações e permitir que você encontre o que está procurando :smile:!
 
