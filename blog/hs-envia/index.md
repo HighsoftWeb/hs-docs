@@ -13,7 +13,7 @@ keywords: [docs, tutorial, whatsapp, marketing]
 
 ## O que é o HSEnvia?
 
-O HSEnvia é uma nova funcionalidade do HSCorp, que serve para você poder enviar mensagens para seus clientes de forma automática e sem burocracia.
+O HSEnvia é uma nova funcionalidade do HSCorp, que serve para você poder enviar mensagens para seus clientes de forma intuitiva e sem burocracia.
 
 Você pode configurar mensagens padrões e automatizar todo o seu processo de marketing e cobrança!
 
