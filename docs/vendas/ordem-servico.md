@@ -19,4 +19,4 @@ Das Ordens de Serviços conseguimos gerar notas fiscais eletrônicas, notas fisc
 
 ## Tutorials
 
-- [Como fazer uma Ordem de Serviço](/blog/como-fazer-ordem-servico)
+- [Como fazer uma Ordem de Serviço](/faq/como-fazer-ordem-servico)

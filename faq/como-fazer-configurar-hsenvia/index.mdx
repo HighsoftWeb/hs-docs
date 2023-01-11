@@ -1,0 +1,96 @@
+---
+slug: como-configurar-hsenvia
+title: Como configurar o HSEnvia?
+description: Confira como configurar o HSEnvia
+authors: [thaise]
+date: 2023-01-11T10:00
+image: ./image.jpg
+tags: [docs, tutorial, hs-envia, marketing]
+keywords: [docs, tutorial, whatsapp, marketing]
+---
+
+![banner](./image.jpg)
+
+## Objetivo e Função
+
+- Realizar integração entre WhatsApp e sistema HsCorp
+- Enviar mensagens comerciais e financeiras
+- Otimizar o processo de relacionamento com o cliente
+
+## Ativando o Parâmetro Personalizado
+
+Escolher o número que será utilizado para as operações de WhatsApp no Sistema e repassar para o nosso setor de Comercial.
+
+Irá ser gerado um token e uma instância repassado à você. Após isso, dar continuidade aos seguintes passos:
+
+### Token Whatsapp
+
+Abrir a tela de parâmetros personalizados no caminho <highlight bgColor="#54638c">Cadastro > Gerais > Parâmetros Personalizados</highlight>. [Não encontrei esse menu](/docs/intro/comecando#não-encontrei-o-menu-desejado)
+
+Clique em `Pesquisar` e pesquise por **NUM_TOKEN_WHATSAPP**.
+
+Preencha com o token enviado pelo comercial.
+
+![configurar-token-whats](./img/configurar-token-whats.png)
+
+### Instância Whatsapp
+
+Abrir a tela de parâmetros personalizados no caminho <highlight bgColor="#54638c">Cadastro > Gerais > Parâmetros Personalizados</highlight>. [Não encontrei esse menu](/docs/intro/comecando#não-encontrei-o-menu-desejado)
+
+Clique em `Pesquisar` e pesquise por **NUM_INSTANCIA_WHATSAPP**.
+
+Preencha com a instância enviada pelo comercial.
+
+![configurar-instancia-whats](./img/configurar-instancia-whats.png)
+
+### Servidor Whatsapp
+
+Abrir a tela de parâmetros personalizados no caminho <highlight bgColor="#54638c">Cadastro > Gerais > Parâmetros Personalizados</highlight>. [Não encontrei esse menu](/docs/intro/comecando#não-encontrei-o-menu-desejado)
+
+Clique em `Pesquisar` e pesquise por **DIR_SERVIDOR_WHAT**.
+
+Preencha com o número 1 para ativar.
+
+![configurar-servidor-whats](./img/configurar-servidor-whats.png)
+
+## Configurando número por empresa
+
+Abrir a tela de parâmetros personalizados no caminho <highlight bgColor="#54638c">Cadastro > Gerais > Empresa</highlight>. [Não encontrei esse menu](/docs/intro/comecando#não-encontrei-o-menu-desejado)
+
+Pesquisar pela empresa logada e selecionar.
+
+Após isso, abra os seguintes menus <highlight bgColor="#54638c">Parâmetros > Vendas > Web Service > WhatsApp</highlight>
+
+![configurar-empresa-whats](./img/configurar-empresa-whats.png)
+
+Informar os códigos de Id Instância e Token.
+
+Clicar em Status WhatsApp e fazer a leitura QR CODE com aparelho celular que esteja usando o número do token informado.
+
+:::caution
+O QR Code precisa ser scaneado em 10 segundos, caso contrário deverá ser gerado um novo clicando em Status WhatsApp
+:::
+
+## Configurando número por setor
+
+Caso opte por trabalhar com mais de um número de WhatsApp, a configuração do HsEnvia deve ser feita por setor.
+
+Abrir a tela de setores no caminho <highlight bgColor="#54638c">Cadastro > Comercial > Clientes > Setores</highlight>. [Não encontrei esse menu](/docs/intro/comecando#não-encontrei-o-menu-desejado)
+
+![setores](./img/setores.png)
+
+Pesquisar pelo setor desejado e selecionar.
+
+![setor](./img/setor.png)
+
+Marcar a opção Terminal WhatsApp
+
+Clicar em `Status WhatsApp` e fazer a leitura QR CODE com aparelho Celular que esteja usando o número do token informado.
+
+:::caution
+O QR Code precisa ser scaneado em 10 segundos, caso contrário deverá ser gerado um novo clicando em Status WhatsApp
+:::
+
+## Como utilizar
+
+- [Como utilizar o HSEnvia](/faq/como-utilizar-hsenvia)
