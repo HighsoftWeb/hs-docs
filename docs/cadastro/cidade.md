@@ -4,6 +4,7 @@ title: Cidades
 sidebar_label: Cidades
 tags:
   - cidade
+  - fcidade
   - cadastro
 ---
 
